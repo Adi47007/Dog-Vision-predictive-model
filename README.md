@@ -6,6 +6,12 @@ Dog Vision is a deep learning-based image classification model that predicts dog
 
 The system takes an input image of a dog and outputs the predicted breed along with confidence scores.
 
+We are provided with a training set and a test set of images of dogs. Each image has a filename that is its unique id. The dataset comprises 120 breeds of dogs.
+
+The data consists of 10,222 dogs images and 120 Dog breeds
+
+Download the Dog vision data and model from here: https://drive.google.com/drive/folders/1K5YjEuv6_770aIRdFxrgGMCDG99A58ix?usp=sharing
+
 🚀 Features
 
 Image-based dog breed prediction
@@ -80,6 +86,15 @@ Deploy as a web application
 Improve accuracy with transfer learning
 
 Add support for mixed-breed detection
+
+
+Data based on the number of breeds.
+
+<img width="807" height="492" alt="image" src="https://github.com/user-attachments/assets/65938c53-a39d-4ab8-bac8-5ab64eae5130" />
+
+<img width="432" height="413" alt="image" src="https://github.com/user-attachments/assets/904b89ff-6479-4b3b-8a82-646e0c7581a5" />
+
+
 
 Optimize model size for mobile deployment
 
